@@ -1,3 +1,4 @@
+<?php
 add_shortcode('findCar', function() {
 
 $query = new WP_Query([
